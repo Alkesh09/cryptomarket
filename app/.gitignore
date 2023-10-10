@@ -1,17 +1,1 @@
 /build
-
-*.apk
-*.aar
-*.ap_
-*.aab
-
-*.dex
-
-.idea/
-/local.properties
-local.properties
-.gradle
-*.iml
-.DS_Store
-/captures
-/build
